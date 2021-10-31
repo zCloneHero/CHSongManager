@@ -1,2 +1,2 @@
 # CHSongManager
-A PowerShell script to help with handling of songs, and misc. features, for the game Clone Hero.
+A powershell script to handle moving songs into and out of the Songs directory of a Clone Hero installation.
